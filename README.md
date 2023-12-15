@@ -7,7 +7,7 @@ What is difference between Pandas Dataframe and Spark Dataframe?
    Spark is optimised for large datsets.
 3. Other than above, Pandas dataframe are mutable, but Spark dataframes are immutable.
 
-    |Pandas Dataframe      | Spark Dataframe|
+    | Pandas Dataframe     | Spark Dataframe|
     | -------------        | -------------  |
     | Mutable              | Immutable|
     | Eager Evaluation     | Lazy Evaluation|
